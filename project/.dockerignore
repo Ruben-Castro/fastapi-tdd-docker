@@ -1,2 +1,5 @@
 env
 .vscode
+htmlcov
+.coverage
+.coveragerc
