@@ -1,7 +1,7 @@
 import logging
 import os
-from pydantic import BaseSettings, AnyUrl
 
+from pydantic import AnyUrl, BaseSettings
 
 log = logging.getLogger("uvicorn")
 
